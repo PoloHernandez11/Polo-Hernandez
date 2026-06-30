@@ -60,7 +60,7 @@ Passionate about gaming and development
 
 ## My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoloHernandez11&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PoloHernandez11&cc=000&tc=fff&ic=fff&bc=000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoloHernandez11&layout=compact&theme=dark&cache_seconds=1800)
 
